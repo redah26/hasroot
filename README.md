@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-redah26/redah26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hasroot/hasroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
